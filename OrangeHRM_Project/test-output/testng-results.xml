@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-08T01:38:22 IST" name="Default suite" finished-at="2025-08-08T01:38:50 IST" duration-ms="27601">
+    <groups>
+    </groups>
+    <test started-at="2025-08-08T01:38:22 IST" name="Default test" finished-at="2025-08-08T01:38:50 IST" duration-ms="27601">
+      <class name="scenario_2.AdminTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:scenario_2.AdminTest@5032714f]" started-at="2025-08-08T01:38:22 IST" name="beforeTest" finished-at="2025-08-08T01:38:36 IST" duration-ms="13593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="searchEmployee()[pri:0, instance:scenario_2.AdminTest@5032714f]" started-at="2025-08-08T01:38:36 IST" name="searchEmployee" finished-at="2025-08-08T01:38:50 IST" duration-ms="13613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchEmployee -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:scenario_2.AdminTest@5032714f]" started-at="2025-08-08T01:38:50 IST" name="afterTest" finished-at="2025-08-08T01:38:50 IST" duration-ms="365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- scenario_2.AdminTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
